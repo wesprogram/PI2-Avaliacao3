@@ -1,5 +1,5 @@
-from db.session import SessionLocal
-from db.models import InvestmentFund, Stock, GovernmentBond
+from session import SessionLocal
+from models import InvestmentFund, Stock, GovernmentBond
 
 def populate_mock_data():
     db = SessionLocal()

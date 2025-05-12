@@ -1,5 +1,5 @@
-from app.db.models import Base
-from app.db.session import engine
+from models import Base
+from session import engine
 
 def create_tables():
     Base.metadata.create_all(bind=engine)
