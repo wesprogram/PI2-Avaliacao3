@@ -1,4 +1,8 @@
-# NEW: AVALIAÇÃO 4 TESTES E GARANTIA DE QUALIDADE (ADD TESTES)
+# NEW: AVALIAÇÃO 1 TESTES E GARANTIA DE QUALIDADE (ADD APP CODE)
+
+PI3 - Avaliação 1
+
+Mesclando repositórios para melhor entendimento.
 
 # PI2 - Avaliação 4
 Avaliação 4 - Projeto Integrador II - UFMS (Testes)
